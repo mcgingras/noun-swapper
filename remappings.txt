@@ -1,1 +1,2 @@
 @openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/
+nouns-monorepo/=lib/nouns-monorepo/packages/nouns-contracts/contracts/
